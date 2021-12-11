@@ -156,7 +156,16 @@ namespace labDraft2
                         {
                             if(userClass.checkUser(checkUserIdFromBorrow))
                             {
-                                userClass.UserBookHistory_List.Add(checkBookIdFromBorrow);
+                                for (int j = 0; j < Book_List.Count; j++)
+                                {
+                                    if (Book_List[j].checkBook(checkBookIdFromBorrow))
+                                    {
+                                     
+
+                                        userClass.UserHistoryofBookList.Add(Book_List[j]);
+                                    }
+                                }
+                                //userClass.UserBookHistory_List.Add(checkBookIdFromBorrow);
                                 MessageBox.Show("Book has been borrowed!");
                             }
                         }
@@ -189,16 +198,17 @@ namespace labDraft2
             
                 
                 userHistoryListBox.Items.Clear();   
-                for(int i=0;i<dummyUser.UserBookHistory_List.Count;i++)
+                for(int i=0;i<dummyUser.UserHistoryofBookList.Count;i++)
                 {
-                    double book_id = dummyUser.UserBookHistory_List[i];
+                userHistoryListBox.Items.Add(dummyUser.UserHistoryofBookList[i].bookHistory());
+                    /*double book_id = dummyUser.UserHistoryofBookList[i].getBookID();
                     for(int j=0; j<Book_List.Count;j++)
                     {
                         if(Book_List[j].checkBook(book_id))
                         {
                             userHistoryListBox.Items.Add(Book_List[j].bookHistory());
                         }
-                    }
+                    }*/
                 }
 
             

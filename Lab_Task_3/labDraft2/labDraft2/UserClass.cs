@@ -14,7 +14,10 @@ namespace labDraft2
 
       
 
-        public List<double> UserBookHistory_List = new List<double>();
+        //public List<double> UserBookHistory_List = new List<double>();
+
+        public List<BookClass> UserHistoryofBookList = new List<BookClass>();
+
 
 
         BookClass dummyBook = new BookClass();
@@ -27,10 +30,10 @@ namespace labDraft2
             this.Address = address; 
         }
         
-        public void setterBookinUser(double bookID)
-        {
-            UserBookHistory_List.Add(bookID);
-        }
+        //public void setterBookinUser(double bookID)
+        //{
+        //    UserBookHistory_List.Add(bookID);
+        //}
 
         public bool checkUser(double UserCheckID)
         {
