@@ -13,18 +13,15 @@ namespace Lab_task_05
         private double quantity;
         private double price;
 
+        public string nameGiveForComboBox()
+        {
+            return name;
+        }
         public double priceGive()
         {
             return price;
         }
-        public bool checkMedID(double medID)
-        {
-            if(medID == id)
-            {
-                return true;
-            }
-            else return false;
-        }
+        
         public void setterMed(double ID, string name, double quantity, double price)
         {
             this.id = ID;
@@ -35,10 +32,17 @@ namespace Lab_task_05
 
         public string getterInfo()
         {
-            string get = id.ToString() + "\t" + name + "\t" + quantity.ToString() + "\t" + price.ToString();
+            string get = id.ToString() + "\t  " + name + "\t  " + quantity.ToString() + "\t  " + price.ToString();
             return get;
         }
-
+        public bool checkMedName(string MedName)
+        {
+            if (MedName == name)
+            {
+                return true;
+            }
+            else return false;
+        }
         public bool quantityCheck(double QUANtity)
         {
             if (quantity >= QUANtity)

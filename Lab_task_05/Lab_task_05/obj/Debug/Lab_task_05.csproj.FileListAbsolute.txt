@@ -9,3 +9,14 @@ D:\SWE 4202\Lab_task_05\Lab_task_05\obj\Debug\Lab_task_05.csproj.GenerateResourc
 D:\SWE 4202\Lab_task_05\Lab_task_05\obj\Debug\Lab_task_05.csproj.CoreCompileInputs.cache
 D:\SWE 4202\Lab_task_05\Lab_task_05\obj\Debug\Lab_task_05.exe
 D:\SWE 4202\Lab_task_05\Lab_task_05\obj\Debug\Lab_task_05.pdb
+D:\SWE 4202\SWE-4202-Repository-\Lab_task_05\Lab_task_05\bin\Debug\Lab_task_05.exe.config
+D:\SWE 4202\SWE-4202-Repository-\Lab_task_05\Lab_task_05\bin\Debug\Lab_task_05.exe
+D:\SWE 4202\SWE-4202-Repository-\Lab_task_05\Lab_task_05\bin\Debug\Lab_task_05.pdb
+D:\SWE 4202\SWE-4202-Repository-\Lab_task_05\Lab_task_05\obj\Debug\Lab_task_05.csproj.AssemblyReference.cache
+D:\SWE 4202\SWE-4202-Repository-\Lab_task_05\Lab_task_05\obj\Debug\Lab_task_05.csproj.SuggestedBindingRedirects.cache
+D:\SWE 4202\SWE-4202-Repository-\Lab_task_05\Lab_task_05\obj\Debug\Lab_task_05.Form1.resources
+D:\SWE 4202\SWE-4202-Repository-\Lab_task_05\Lab_task_05\obj\Debug\Lab_task_05.Properties.Resources.resources
+D:\SWE 4202\SWE-4202-Repository-\Lab_task_05\Lab_task_05\obj\Debug\Lab_task_05.csproj.GenerateResource.cache
+D:\SWE 4202\SWE-4202-Repository-\Lab_task_05\Lab_task_05\obj\Debug\Lab_task_05.csproj.CoreCompileInputs.cache
+D:\SWE 4202\SWE-4202-Repository-\Lab_task_05\Lab_task_05\obj\Debug\Lab_task_05.exe
+D:\SWE 4202\SWE-4202-Repository-\Lab_task_05\Lab_task_05\obj\Debug\Lab_task_05.pdb

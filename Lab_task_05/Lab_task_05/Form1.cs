@@ -31,7 +31,7 @@ namespace Lab_task_05
             int i = 0;
             for(i =0;i<MedicineList.Count;i++)
             {
-                if(MedicineList[i].checkMedID(IDAdd))
+                if(MedicineList[i].checkMedName(nameADD))
                 {
                     MedicineList[i].quantityIncrease(quantityADD);
                     MessageBox.Show("Meicine Exists and Quantity of it has been increased!");
@@ -45,7 +45,7 @@ namespace Lab_task_05
                 MedicineClass TempMed = new MedicineClass();
                 TempMed.setterMed(IDAdd,nameADD,quantityADD,priceADD);
                 MedicineList.Add(TempMed);
-                comboBox1.Items.Add(TempMed);
+                comboBox1.Items.Add(TempMed.nameGiveForComboBox());
                 MessageBox.Show("Medicine Added!");
 
             }
@@ -54,13 +54,13 @@ namespace Lab_task_05
 
         private void medSHOWonClick(object sender, EventArgs e)
         {
-            double CheckMedID = Convert.ToDouble(MedSHOWidBox.Text);
+            string CheckMedName = MedSHOWidBox.Text;
 
             bool medExist = false;
 
             foreach(MedicineClass Medicine in MedicineList)
             {
-                if(Medicine.checkMedID(CheckMedID))
+                if(Medicine.checkMedName(CheckMedName))
                 {
                     MedicineListBox.Items.Clear();
                     MedicineListBox.Items.Add(Medicine.getterInfo());
@@ -77,14 +77,14 @@ namespace Lab_task_05
 
         private void sellMedOnClick(object sender, EventArgs e)
         {
-            double IDSell = Convert.ToDouble(MedSELLidBox.Text);
+            string IDSell = MedSELLidBox.Text;
             double QuantitySell = Convert.ToDouble(MedSELLQuantityBox.Text);
             
             bool medExists = false;
             int i = 0;
             for (i = 0; i < MedicineList.Count; i++)
             {
-                if (MedicineList[i].checkMedID(IDSell))
+                if (MedicineList[i].checkMedName(IDSell))
                 {
                     if(MedicineList[i].quantityCheck(QuantitySell))
                     {
@@ -117,6 +117,17 @@ namespace Lab_task_05
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            MedSELLidBox.Text = comboBox1.SelectedItem.ToString();
+
+        }
+
+        private void MedSHOWidBox_TextChanged(object sender, EventArgs e)
         {
 
         }
