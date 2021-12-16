@@ -52,11 +52,8 @@
             this.label13 = new System.Windows.Forms.Label();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.label14 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.MedSELLidBox = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.MedSELLQuantityBox = new System.Windows.Forms.TextBox();
-            this.button5 = new System.Windows.Forms.Button();
             this.label15 = new System.Windows.Forms.Label();
             this.label16 = new System.Windows.Forms.Label();
             this.label17 = new System.Windows.Forms.Label();
@@ -261,41 +258,25 @@
             // comboBox1
             // 
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(584, 142);
+            this.comboBox1.Location = new System.Drawing.Point(725, 100);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(183, 24);
+            this.comboBox1.Size = new System.Drawing.Size(222, 24);
             this.comboBox1.TabIndex = 26;
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // label14
             // 
             this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(581, 112);
+            this.label14.Location = new System.Drawing.Point(581, 100);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(253, 16);
+            this.label14.Size = new System.Drawing.Size(102, 16);
             this.label14.TabIndex = 27;
-            this.label14.Text = "Or Choose From Here (work in progress) :";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(581, 63);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(102, 16);
-            this.label5.TabIndex = 8;
-            this.label5.Text = "Medicine Name";
-            // 
-            // MedSELLidBox
-            // 
-            this.MedSELLidBox.Location = new System.Drawing.Point(725, 63);
-            this.MedSELLidBox.Name = "MedSELLidBox";
-            this.MedSELLidBox.Size = new System.Drawing.Size(222, 22);
-            this.MedSELLidBox.TabIndex = 9;
+            this.label14.Text = "Medicine Name";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(581, 197);
+            this.label6.Location = new System.Drawing.Point(581, 164);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(113, 16);
             this.label6.TabIndex = 10;
@@ -303,20 +284,10 @@
             // 
             // MedSELLQuantityBox
             // 
-            this.MedSELLQuantityBox.Location = new System.Drawing.Point(725, 197);
+            this.MedSELLQuantityBox.Location = new System.Drawing.Point(725, 164);
             this.MedSELLQuantityBox.Name = "MedSELLQuantityBox";
             this.MedSELLQuantityBox.Size = new System.Drawing.Size(222, 22);
             this.MedSELLQuantityBox.TabIndex = 11;
-            // 
-            // button5
-            // 
-            this.button5.Location = new System.Drawing.Point(804, 142);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(143, 27);
-            this.button5.TabIndex = 28;
-            this.button5.Text = "Select";
-            this.button5.UseVisualStyleBackColor = true;
-            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // label15
             // 
@@ -363,7 +334,6 @@
             this.Controls.Add(this.label17);
             this.Controls.Add(this.label16);
             this.Controls.Add(this.label15);
-            this.Controls.Add(this.button5);
             this.Controls.Add(this.label14);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.label13);
@@ -382,8 +352,6 @@
             this.Controls.Add(this.CurrentAccBalance);
             this.Controls.Add(this.MedSELLQuantityBox);
             this.Controls.Add(this.label6);
-            this.Controls.Add(this.MedSELLidBox);
-            this.Controls.Add(this.label5);
             this.Controls.Add(this.MedPriceBox);
             this.Controls.Add(this.MedQuanBox);
             this.Controls.Add(this.MedNameBox);
@@ -425,11 +393,8 @@
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.Label label14;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox MedSELLidBox;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox MedSELLQuantityBox;
-        private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Label label15;
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.Label label17;

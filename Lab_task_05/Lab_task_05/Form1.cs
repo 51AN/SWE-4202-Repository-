@@ -15,6 +15,8 @@ namespace Lab_task_05
         List<MedicineClass> MedicineList = new List<MedicineClass>();
 
         double TotalBalance = 0;
+
+        string selectMedNameFromCombo;
         public Form1()
         {
             InitializeComponent();
@@ -77,7 +79,7 @@ namespace Lab_task_05
 
         private void sellMedOnClick(object sender, EventArgs e)
         {
-            string IDSell = MedSELLidBox.Text;
+            string IDSell = selectMedNameFromCombo;
             double QuantitySell = Convert.ToDouble(MedSELLQuantityBox.Text);
             
             bool medExists = false;
@@ -119,13 +121,10 @@ namespace Lab_task_05
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
+            selectMedNameFromCombo = comboBox1.SelectedItem.ToString();
         }
 
-        private void button5_Click(object sender, EventArgs e)
-        {
-            MedSELLidBox.Text = comboBox1.SelectedItem.ToString();
-
-        }
+        
 
         private void MedSHOWidBox_TextChanged(object sender, EventArgs e)
         {
