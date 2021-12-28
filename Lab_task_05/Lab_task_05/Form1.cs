@@ -20,6 +20,7 @@ namespace Lab_task_05
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("Mayer Dowa Pharmacy Load Complete\nPress OK");
         }
 
         private void addMedOnClick(object sender, EventArgs e)
