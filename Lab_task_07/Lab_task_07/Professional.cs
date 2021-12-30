@@ -22,5 +22,10 @@ namespace Lab_task_07
             string set = Convert.ToString(fees+(fees*0.1));
             return set;
         }
+        public override string Fees(double fees)
+        {
+            string set = Convert.ToString(fees + (fees * 0.1));
+            return set;
+        }
     }
 }

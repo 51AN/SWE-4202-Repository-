@@ -23,6 +23,11 @@ namespace Lab_task_07
             }
             else return false;
         }
+        public virtual string Fees(double fees)
+        {
+            string set = Convert.ToString(fees);
+            return set;
+        }
 
     }
 }

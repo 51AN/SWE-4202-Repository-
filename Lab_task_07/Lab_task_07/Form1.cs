@@ -97,7 +97,7 @@ namespace Lab_task_07
                     {
                         if (courseList[j].checkifCourseExists(courseName))
                         {
-                            courseFeeLabel.Text ="Course Fee :" + studentList[i].fee(courseList[j].fee);
+                            courseFeeLabel.Text ="Course Fee :" + studentList[i].Fees(courseList[j].fee);
                             errorExists = false;
                             break;
                         }
@@ -117,7 +117,7 @@ namespace Lab_task_07
                     {
                         if (courseList[j].checkifCourseExists(courseName))
                         {
-                            courseFeeLabel.Text = "Course Fee :" + proList[i].fee(courseList[j].fee);
+                            courseFeeLabel.Text = "Course Fee :" + proList[i].Fees(courseList[j].fee);
 
                             errorExists = false;
                             break;
