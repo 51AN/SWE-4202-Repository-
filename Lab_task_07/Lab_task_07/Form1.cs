@@ -201,7 +201,7 @@ namespace Lab_task_07
             }
 
            
-            dummyEn.enrollDate = EnrollmentBOx.Text;
+            
             if (errorExists)
             {
                 MessageBox.Show("Invalid Input!!!");
