@@ -31,6 +31,7 @@ namespace Lab_Task_007
 
             string level;
 
+
             bool errorExists = false;
             if(BegradioButton1.Checked)
             {

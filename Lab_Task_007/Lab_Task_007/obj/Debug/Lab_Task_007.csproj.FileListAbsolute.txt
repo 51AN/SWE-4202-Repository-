@@ -9,3 +9,14 @@ D:\SWE 4202\Lab_Task_007\Lab_Task_007\bin\Debug\Lab_Task_007.exe
 D:\SWE 4202\Lab_Task_007\Lab_Task_007\bin\Debug\Lab_Task_007.pdb
 D:\SWE 4202\Lab_Task_007\Lab_Task_007\obj\Debug\Lab_Task_007.exe
 D:\SWE 4202\Lab_Task_007\Lab_Task_007\obj\Debug\Lab_Task_007.pdb
+D:\SWE 4202\SWE-4202-Repository-\Lab_Task_007\Lab_Task_007\bin\Debug\Lab_Task_007.exe.config
+D:\SWE 4202\SWE-4202-Repository-\Lab_Task_007\Lab_Task_007\bin\Debug\Lab_Task_007.exe
+D:\SWE 4202\SWE-4202-Repository-\Lab_Task_007\Lab_Task_007\bin\Debug\Lab_Task_007.pdb
+D:\SWE 4202\SWE-4202-Repository-\Lab_Task_007\Lab_Task_007\obj\Debug\Lab_Task_007.csproj.AssemblyReference.cache
+D:\SWE 4202\SWE-4202-Repository-\Lab_Task_007\Lab_Task_007\obj\Debug\Lab_Task_007.csproj.SuggestedBindingRedirects.cache
+D:\SWE 4202\SWE-4202-Repository-\Lab_Task_007\Lab_Task_007\obj\Debug\Lab_Task_007.Form1.resources
+D:\SWE 4202\SWE-4202-Repository-\Lab_Task_007\Lab_Task_007\obj\Debug\Lab_Task_007.Properties.Resources.resources
+D:\SWE 4202\SWE-4202-Repository-\Lab_Task_007\Lab_Task_007\obj\Debug\Lab_Task_007.csproj.GenerateResource.cache
+D:\SWE 4202\SWE-4202-Repository-\Lab_Task_007\Lab_Task_007\obj\Debug\Lab_Task_007.csproj.CoreCompileInputs.cache
+D:\SWE 4202\SWE-4202-Repository-\Lab_Task_007\Lab_Task_007\obj\Debug\Lab_Task_007.exe
+D:\SWE 4202\SWE-4202-Repository-\Lab_Task_007\Lab_Task_007\obj\Debug\Lab_Task_007.pdb
