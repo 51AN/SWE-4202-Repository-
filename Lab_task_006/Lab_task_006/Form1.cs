@@ -38,6 +38,9 @@ namespace Lab_task_006
             else
             {
                 UserClass user = new UserClass(userid, name, address);
+
+                
+
                 LMS.userList.Add(user);
                 MessageBox.Show("User Has Been Added");
             }

@@ -12,6 +12,9 @@ namespace Lab_task_006
         private string name;
         private string address;
 
+        
+
+        
         public string getName()
         {
             return name;
