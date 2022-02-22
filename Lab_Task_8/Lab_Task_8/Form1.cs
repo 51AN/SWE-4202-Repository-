@@ -31,6 +31,8 @@ namespace Lab_Task_8
 
         private void createAccountOnClick_Click(object sender, EventArgs e)
         {
+            
+            
             if(currentButton1.Checked)
             {
                 string account = Convert.ToString(accountNo) + "300";

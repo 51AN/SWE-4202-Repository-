@@ -1,0 +1,15 @@
+D:\SWE 4202\SWE-4202-Repository-\overload\overload\bin\Debug\net6.0\overload.exe
+D:\SWE 4202\SWE-4202-Repository-\overload\overload\bin\Debug\net6.0\overload.deps.json
+D:\SWE 4202\SWE-4202-Repository-\overload\overload\bin\Debug\net6.0\overload.runtimeconfig.json
+D:\SWE 4202\SWE-4202-Repository-\overload\overload\bin\Debug\net6.0\overload.dll
+D:\SWE 4202\SWE-4202-Repository-\overload\overload\bin\Debug\net6.0\ref\overload.dll
+D:\SWE 4202\SWE-4202-Repository-\overload\overload\bin\Debug\net6.0\overload.pdb
+D:\SWE 4202\SWE-4202-Repository-\overload\overload\obj\Debug\net6.0\overload.csproj.AssemblyReference.cache
+D:\SWE 4202\SWE-4202-Repository-\overload\overload\obj\Debug\net6.0\overload.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWE 4202\SWE-4202-Repository-\overload\overload\obj\Debug\net6.0\overload.AssemblyInfoInputs.cache
+D:\SWE 4202\SWE-4202-Repository-\overload\overload\obj\Debug\net6.0\overload.AssemblyInfo.cs
+D:\SWE 4202\SWE-4202-Repository-\overload\overload\obj\Debug\net6.0\overload.csproj.CoreCompileInputs.cache
+D:\SWE 4202\SWE-4202-Repository-\overload\overload\obj\Debug\net6.0\overload.dll
+D:\SWE 4202\SWE-4202-Repository-\overload\overload\obj\Debug\net6.0\ref\overload.dll
+D:\SWE 4202\SWE-4202-Repository-\overload\overload\obj\Debug\net6.0\overload.pdb
+D:\SWE 4202\SWE-4202-Repository-\overload\overload\obj\Debug\net6.0\overload.genruntimeconfig.cache

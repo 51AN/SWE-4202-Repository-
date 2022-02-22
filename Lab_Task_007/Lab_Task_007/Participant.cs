@@ -16,7 +16,6 @@ namespace Lab_Task_007
         public double fee;
         public List<string> Enrolled_courses = new List<string>();
 
-        
         public virtual double getFee(double feees)
         {
             return feees;
