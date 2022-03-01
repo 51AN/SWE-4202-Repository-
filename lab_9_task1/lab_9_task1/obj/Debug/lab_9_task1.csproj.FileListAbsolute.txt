@@ -1,0 +1,8 @@
+D:\SWE 4202\SWE-4202-Repository-\lab_9_task1\lab_9_task1\bin\Debug\lab_9_task1.exe.config
+D:\SWE 4202\SWE-4202-Repository-\lab_9_task1\lab_9_task1\bin\Debug\lab_9_task1.exe
+D:\SWE 4202\SWE-4202-Repository-\lab_9_task1\lab_9_task1\bin\Debug\lab_9_task1.pdb
+D:\SWE 4202\SWE-4202-Repository-\lab_9_task1\lab_9_task1\obj\Debug\lab_9_task1.csproj.AssemblyReference.cache
+D:\SWE 4202\SWE-4202-Repository-\lab_9_task1\lab_9_task1\obj\Debug\lab_9_task1.csproj.SuggestedBindingRedirects.cache
+D:\SWE 4202\SWE-4202-Repository-\lab_9_task1\lab_9_task1\obj\Debug\lab_9_task1.csproj.CoreCompileInputs.cache
+D:\SWE 4202\SWE-4202-Repository-\lab_9_task1\lab_9_task1\obj\Debug\lab_9_task1.exe
+D:\SWE 4202\SWE-4202-Repository-\lab_9_task1\lab_9_task1\obj\Debug\lab_9_task1.pdb
