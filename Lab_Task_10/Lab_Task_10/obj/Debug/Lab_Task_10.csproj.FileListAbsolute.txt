@@ -1,0 +1,11 @@
+D:\SWE 4202\SWE-4202-Repository-\Lab_Task_10\Lab_Task_10\bin\Debug\Lab_Task_10.exe.config
+D:\SWE 4202\SWE-4202-Repository-\Lab_Task_10\Lab_Task_10\bin\Debug\Lab_Task_10.exe
+D:\SWE 4202\SWE-4202-Repository-\Lab_Task_10\Lab_Task_10\bin\Debug\Lab_Task_10.pdb
+D:\SWE 4202\SWE-4202-Repository-\Lab_Task_10\Lab_Task_10\obj\Debug\Lab_Task_10.csproj.AssemblyReference.cache
+D:\SWE 4202\SWE-4202-Repository-\Lab_Task_10\Lab_Task_10\obj\Debug\Lab_Task_10.csproj.SuggestedBindingRedirects.cache
+D:\SWE 4202\SWE-4202-Repository-\Lab_Task_10\Lab_Task_10\obj\Debug\Lab_Task_10.Form1.resources
+D:\SWE 4202\SWE-4202-Repository-\Lab_Task_10\Lab_Task_10\obj\Debug\Lab_Task_10.Properties.Resources.resources
+D:\SWE 4202\SWE-4202-Repository-\Lab_Task_10\Lab_Task_10\obj\Debug\Lab_Task_10.csproj.GenerateResource.cache
+D:\SWE 4202\SWE-4202-Repository-\Lab_Task_10\Lab_Task_10\obj\Debug\Lab_Task_10.csproj.CoreCompileInputs.cache
+D:\SWE 4202\SWE-4202-Repository-\Lab_Task_10\Lab_Task_10\obj\Debug\Lab_Task_10.exe
+D:\SWE 4202\SWE-4202-Repository-\Lab_Task_10\Lab_Task_10\obj\Debug\Lab_Task_10.pdb
