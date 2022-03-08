@@ -1,0 +1,8 @@
+D:\SWE 4202\SWE-4202-Repository-\Quiz3Practice\Quiz3Practice\bin\Debug\Quiz3Practice.exe.config
+D:\SWE 4202\SWE-4202-Repository-\Quiz3Practice\Quiz3Practice\bin\Debug\Quiz3Practice.exe
+D:\SWE 4202\SWE-4202-Repository-\Quiz3Practice\Quiz3Practice\bin\Debug\Quiz3Practice.pdb
+D:\SWE 4202\SWE-4202-Repository-\Quiz3Practice\Quiz3Practice\obj\Debug\Quiz3Practice.csproj.AssemblyReference.cache
+D:\SWE 4202\SWE-4202-Repository-\Quiz3Practice\Quiz3Practice\obj\Debug\Quiz3Practice.csproj.SuggestedBindingRedirects.cache
+D:\SWE 4202\SWE-4202-Repository-\Quiz3Practice\Quiz3Practice\obj\Debug\Quiz3Practice.csproj.CoreCompileInputs.cache
+D:\SWE 4202\SWE-4202-Repository-\Quiz3Practice\Quiz3Practice\obj\Debug\Quiz3Practice.exe
+D:\SWE 4202\SWE-4202-Repository-\Quiz3Practice\Quiz3Practice\obj\Debug\Quiz3Practice.pdb

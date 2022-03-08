@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ccba3645-bda5-4426-baff-a4ec86b507d9": {
+      "ProjectGuid": "ccba3645-bda5-4426-baff-a4ec86b507d9",
+      "DisplayName": "Lab_11_tic_tac_toe",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

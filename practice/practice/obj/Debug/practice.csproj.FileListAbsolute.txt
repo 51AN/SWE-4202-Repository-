@@ -1,0 +1,8 @@
+D:\SWE 4202\SWE-4202-Repository-\practice\practice\bin\Debug\practice.exe.config
+D:\SWE 4202\SWE-4202-Repository-\practice\practice\bin\Debug\practice.exe
+D:\SWE 4202\SWE-4202-Repository-\practice\practice\bin\Debug\practice.pdb
+D:\SWE 4202\SWE-4202-Repository-\practice\practice\obj\Debug\practice.csproj.AssemblyReference.cache
+D:\SWE 4202\SWE-4202-Repository-\practice\practice\obj\Debug\practice.csproj.SuggestedBindingRedirects.cache
+D:\SWE 4202\SWE-4202-Repository-\practice\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+D:\SWE 4202\SWE-4202-Repository-\practice\practice\obj\Debug\practice.exe
+D:\SWE 4202\SWE-4202-Repository-\practice\practice\obj\Debug\practice.pdb
