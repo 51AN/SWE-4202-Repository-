@@ -1,8 +1,0 @@
-D:\SWE 4202\SWE-4202-Repository-\ExceptionsPractice\ExceptionsPractice\bin\Debug\ExceptionsPractice.exe.config
-D:\SWE 4202\SWE-4202-Repository-\ExceptionsPractice\ExceptionsPractice\bin\Debug\ExceptionsPractice.exe
-D:\SWE 4202\SWE-4202-Repository-\ExceptionsPractice\ExceptionsPractice\bin\Debug\ExceptionsPractice.pdb
-D:\SWE 4202\SWE-4202-Repository-\ExceptionsPractice\ExceptionsPractice\obj\Debug\ExceptionsPractice.csproj.AssemblyReference.cache
-D:\SWE 4202\SWE-4202-Repository-\ExceptionsPractice\ExceptionsPractice\obj\Debug\ExceptionsPractice.csproj.SuggestedBindingRedirects.cache
-D:\SWE 4202\SWE-4202-Repository-\ExceptionsPractice\ExceptionsPractice\obj\Debug\ExceptionsPractice.csproj.CoreCompileInputs.cache
-D:\SWE 4202\SWE-4202-Repository-\ExceptionsPractice\ExceptionsPractice\obj\Debug\ExceptionsPractice.exe
-D:\SWE 4202\SWE-4202-Repository-\ExceptionsPractice\ExceptionsPractice\obj\Debug\ExceptionsPractice.pdb

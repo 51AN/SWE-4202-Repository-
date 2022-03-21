@@ -1,0 +1,11 @@
+D:\SWE 4202\Lab_task_2\Lab_task_2\bin\Debug\Lab_task_2.exe.config
+D:\SWE 4202\Lab_task_2\Lab_task_2\bin\Debug\Lab_task_2.exe
+D:\SWE 4202\Lab_task_2\Lab_task_2\bin\Debug\Lab_task_2.pdb
+D:\SWE 4202\Lab_task_2\Lab_task_2\obj\Debug\Lab_task_2.csproj.AssemblyReference.cache
+D:\SWE 4202\Lab_task_2\Lab_task_2\obj\Debug\Lab_task_2.csproj.SuggestedBindingRedirects.cache
+D:\SWE 4202\Lab_task_2\Lab_task_2\obj\Debug\Lab_task_2.Form1.resources
+D:\SWE 4202\Lab_task_2\Lab_task_2\obj\Debug\Lab_task_2.Properties.Resources.resources
+D:\SWE 4202\Lab_task_2\Lab_task_2\obj\Debug\Lab_task_2.csproj.GenerateResource.cache
+D:\SWE 4202\Lab_task_2\Lab_task_2\obj\Debug\Lab_task_2.csproj.CoreCompileInputs.cache
+D:\SWE 4202\Lab_task_2\Lab_task_2\obj\Debug\Lab_task_2.exe
+D:\SWE 4202\Lab_task_2\Lab_task_2\obj\Debug\Lab_task_2.pdb
