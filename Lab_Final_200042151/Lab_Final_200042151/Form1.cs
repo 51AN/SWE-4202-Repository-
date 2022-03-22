@@ -1,0 +1,259 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.IO;
+
+namespace Lab_Final_200042151
+{
+    public partial class Form1 : Form
+    {
+        List<studentClass> studentClasses = new List<studentClass>();
+        public Form1()
+        {
+            InitializeComponent();
+            using (var reader = new StreamReader(@"C:\Users\User\Downloads\SWE4201MarkSheet.csv"))
+            {
+
+                reader.ReadLine();
+                reader.ReadLine();
+                reader.ReadLine();
+                reader.ReadLine();
+                reader.ReadLine();
+                reader.ReadLine();
+                reader.ReadLine();
+                reader.ReadLine();
+                reader.ReadLine();
+
+                while (!reader.EndOfStream)
+                {
+                    var line = reader.ReadLine();
+                    var segments = line.Split(',');
+
+                    
+                    studentClass student = new studentClass();
+
+                    student.id = segments[0];
+                    student.name = segments[1];
+                    student.attendance = segments[2];
+                    student.quiz1 = segments[3];
+                    student.quiz2 = segments[4];
+                    student.quiz3 = segments[5];
+                    student.quiz4 = segments[6];
+                    student.mid = segments[7];
+                    student.final = segments[8];
+                    student.viva = segments[9];
+
+                    double attendance;
+                    double quiz1;
+                    double quiz2;
+                    double quiz3;
+                    double quiz4;
+                    double mid;
+                    double final;
+                    double viva;
+
+
+                    if (student.attendance != "")
+                    {
+                        attendance = Convert.ToDouble(student.attendance);
+                    }
+                    else
+                    {
+                        attendance = 0;
+                    }
+                    if (student.quiz1 != "")
+                    {
+                        quiz1 = Convert.ToDouble(student.quiz1);
+                    }
+                    else
+                    {
+                        quiz1 = 0;
+                    }
+                    if (student.quiz2 != "")
+                    {
+                        quiz2 = Convert.ToDouble(student.quiz2);
+                    }
+                    else
+                    {
+                        quiz2 = 0;
+                    }
+                    if (student.quiz3 != "")
+                    {
+                        quiz3 = Convert.ToDouble(student.quiz3);
+                    }
+                    else
+                    {
+                        quiz3 = 0;
+                    }
+                    if (student.quiz4 != "")
+                    {
+                        quiz4 = Convert.ToDouble(student.quiz4);
+                    }
+                    else
+                    {
+                        quiz4 = 0;
+                    }
+
+                    if (student.mid != "")
+                    {
+                        mid = Convert.ToDouble(student.mid);
+                    }
+                    else
+                    {
+                        mid = 0;
+                    }
+                    if (student.final != "")
+                    {
+                        final = Convert.ToDouble(student.final);
+                    }
+                    else
+                    {
+                        final = 0;
+                    }
+                    if (student.viva != "")
+                    {
+                        viva = Convert.ToDouble(student.viva);
+                    }
+                    else
+                    {
+                        viva = 0;
+                    }
+
+                    double quizTotal;
+                    double totalMarks;
+                    double percentage;
+                    string grade;
+                    
+                    if(quiz4 <= quiz1 && quiz4 <= quiz2 && quiz4 <= quiz3)
+                    {
+                        quizTotal = quiz1 + quiz2 + quiz3;
+                    }
+                    else if(quiz3 <= quiz1 && quiz3 <= quiz2 && quiz3 <= quiz4)
+                    {
+                        quizTotal = quiz1 + quiz2 + quiz4;
+                    }
+                    else if(quiz2 <= quiz1 && quiz2 <= quiz3 && quiz2 <= quiz4)
+                    {
+                        quizTotal = quiz1 + quiz4 + quiz3;
+                    }
+                    else
+                    {
+                        quizTotal = quiz4 + quiz2 + quiz3;
+                    }
+
+
+                    totalMarks = attendance + quizTotal + mid + final + viva;
+
+                    percentage = (totalMarks / 300.0) * 100;
+
+                    if(percentage>=80 && percentage<=100)
+                    {
+                        grade = "A+";
+                    }
+                    else if(percentage>=75 && percentage<=79)
+                    {
+                        grade = "A";
+                    }
+                    else if(percentage>=70 && percentage<=74)
+                    {
+                        grade = "A-";
+                    }
+                    else if(percentage>=65 && percentage<=69)
+                    {
+                        grade = "B+";
+                    }
+                    else if(percentage>=60 && percentage<=64)
+                    {
+                        grade = "B";
+                    }
+                    else if(percentage>=55 && percentage<=59)
+                    {
+                        grade = "B-";
+                    }
+                    else if(percentage>=50 && percentage<=54)
+                    {
+                        grade = "C+";
+                    }
+                    else if(percentage>=45 && percentage<=49)
+                    {
+                        grade = "C";
+                    }
+                    else if(percentage>=40 && percentage<=44)
+                    {
+                        grade = "D";
+                    }
+                    else
+                    {
+                        grade = "F";
+                    }
+
+                    student.total = Convert.ToString(totalMarks);
+                    student.grade = grade;
+                    percentage = Math.Round(percentage, 2);
+                    student.percentage = Convert.ToString(percentage);
+
+                    student.quizTotal = Convert.ToString(quizTotal);
+                    
+
+                    studentClasses.Add(student);
+                }
+            }
+
+            for(int i=0;i<studentClasses.Count;i++)
+            {
+                listBox1.Items.Add("Student ID : " + studentClasses[i].printid());;
+                listBox1.Items.Add("Student Name : " + studentClasses[i].printname());
+                listBox1.Items.Add("Percentage : " + studentClasses[i].printPercent() + "%");
+                listBox1.Items.Add("Grade : " +studentClasses[i].printGrade());
+                listBox1.Items.Add("");
+            }
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void searchByID(object sender, EventArgs e)
+        {
+            string checkID = studentIdBox.Text;
+            bool errorExists = true;
+            int i;
+            for (i = 0; i < studentClasses.Count; i++)
+            {
+                if(studentClasses[i].id == checkID)
+                {
+                    errorExists = false;
+                    break;
+                }
+            }    
+
+            if(errorExists)
+            {
+                MessageBox.Show("Student doesn't exist!");
+            }
+            else
+            {
+                attLabel.Text = "Attendance : " + studentClasses[i].attendance.ToString();
+                quiz1label.Text = "Quiz 1 : " + studentClasses[i].quiz1.ToString();
+                quiz2label.Text = "Quiz 2 : " + studentClasses[i].quiz2.ToString();
+                quiz3label.Text = "Quiz 3 : " + studentClasses[i].quiz3.ToString();
+                quiz4label.Text = "Quiz 4 : " + studentClasses[i].quiz4.ToString();
+                quizTotal.Text = "Quiz Total (Best 3) : " + studentClasses[i].quizTotal.ToString();
+                midLabel.Text = "Mid : " + studentClasses[i].mid.ToString();
+                finalLabel.Text = "final : " + studentClasses[i].final.ToString();
+                vivaLabel.Text = "Viva : " + studentClasses[i].viva.ToString();
+                TotalLabel.Text = "Total (Out of 300) : " + studentClasses[i].total.ToString();
+                percentLabel.Text = "Percentage : " + studentClasses[i].percentage.ToString() + " %";
+                gradeLabel.Text = "Grade : " + studentClasses[i].grade;
+            }
+
+        }
+    }
+}

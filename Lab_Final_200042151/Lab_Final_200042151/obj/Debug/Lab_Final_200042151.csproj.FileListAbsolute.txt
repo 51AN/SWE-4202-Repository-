@@ -1,0 +1,11 @@
+D:\SWE 4202\SWE-4202-Repository-\Lab_Final_200042151\Lab_Final_200042151\bin\Debug\Lab_Final_200042151.exe.config
+D:\SWE 4202\SWE-4202-Repository-\Lab_Final_200042151\Lab_Final_200042151\bin\Debug\Lab_Final_200042151.exe
+D:\SWE 4202\SWE-4202-Repository-\Lab_Final_200042151\Lab_Final_200042151\bin\Debug\Lab_Final_200042151.pdb
+D:\SWE 4202\SWE-4202-Repository-\Lab_Final_200042151\Lab_Final_200042151\obj\Debug\Lab_Final_200042151.csproj.AssemblyReference.cache
+D:\SWE 4202\SWE-4202-Repository-\Lab_Final_200042151\Lab_Final_200042151\obj\Debug\Lab_Final_200042151.csproj.SuggestedBindingRedirects.cache
+D:\SWE 4202\SWE-4202-Repository-\Lab_Final_200042151\Lab_Final_200042151\obj\Debug\Lab_Final_200042151.Form1.resources
+D:\SWE 4202\SWE-4202-Repository-\Lab_Final_200042151\Lab_Final_200042151\obj\Debug\Lab_Final_200042151.Properties.Resources.resources
+D:\SWE 4202\SWE-4202-Repository-\Lab_Final_200042151\Lab_Final_200042151\obj\Debug\Lab_Final_200042151.csproj.GenerateResource.cache
+D:\SWE 4202\SWE-4202-Repository-\Lab_Final_200042151\Lab_Final_200042151\obj\Debug\Lab_Final_200042151.csproj.CoreCompileInputs.cache
+D:\SWE 4202\SWE-4202-Repository-\Lab_Final_200042151\Lab_Final_200042151\obj\Debug\Lab_Final_200042151.exe
+D:\SWE 4202\SWE-4202-Repository-\Lab_Final_200042151\Lab_Final_200042151\obj\Debug\Lab_Final_200042151.pdb
