@@ -224,34 +224,35 @@ namespace Lab_Final_200042151
         {
             string checkID = studentIdBox.Text;
             bool errorExists = true;
-            int i;
-            for (i = 0; i < studentClasses.Count; i++)
-            {
-                if(studentClasses[i].id == checkID)
-                {
-                    errorExists = false;
-                    break;
-                }
-            }    
 
+            var student = from std in studentClasses
+                          where std.id == checkID
+                          select std;
+
+
+
+
+                
+
+            foreach(var std in student)
+            {
+                attLabel.Text = "Attendance : " + std.attendance.ToString();
+                quiz1label.Text = "Quiz 1 : " + std.quiz1.ToString();
+                quiz2label.Text = "Quiz 2 : " + std.quiz2.ToString();
+                quiz3label.Text = "Quiz 3 : " + std.quiz3.ToString();
+                quiz4label.Text = "Quiz 4 : " + std.quiz4.ToString();
+                quizTotal.Text = "Quiz Total (Best 3) : " + std.quizTotal.ToString();
+                midLabel.Text = "Mid : " + std.mid.ToString();
+                finalLabel.Text = "final : " + std.final.ToString();
+                vivaLabel.Text = "Viva : " + std.viva.ToString();
+                TotalLabel.Text = "Total (Out of 300) : " + std.total.ToString();
+                percentLabel.Text = "Percentage : " + std.percentage.ToString() + " %";
+                gradeLabel.Text = "Grade : " + std.grade;
+                errorExists = false;
+            }
             if(errorExists)
             {
-                MessageBox.Show("Student doesn't exist!");
-            }
-            else
-            {
-                attLabel.Text = "Attendance : " + studentClasses[i].attendance.ToString();
-                quiz1label.Text = "Quiz 1 : " + studentClasses[i].quiz1.ToString();
-                quiz2label.Text = "Quiz 2 : " + studentClasses[i].quiz2.ToString();
-                quiz3label.Text = "Quiz 3 : " + studentClasses[i].quiz3.ToString();
-                quiz4label.Text = "Quiz 4 : " + studentClasses[i].quiz4.ToString();
-                quizTotal.Text = "Quiz Total (Best 3) : " + studentClasses[i].quizTotal.ToString();
-                midLabel.Text = "Mid : " + studentClasses[i].mid.ToString();
-                finalLabel.Text = "final : " + studentClasses[i].final.ToString();
-                vivaLabel.Text = "Viva : " + studentClasses[i].viva.ToString();
-                TotalLabel.Text = "Total (Out of 300) : " + studentClasses[i].total.ToString();
-                percentLabel.Text = "Percentage : " + studentClasses[i].percentage.ToString() + " %";
-                gradeLabel.Text = "Grade : " + studentClasses[i].grade;
+                MessageBox.Show("Student doesn't exist in the database!");
             }
 
         }
