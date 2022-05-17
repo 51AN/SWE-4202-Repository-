@@ -23,5 +23,6 @@ namespace Lab_Task_007
             return (feees + (0.1 * feees));
         }
 
+        
     }
 }

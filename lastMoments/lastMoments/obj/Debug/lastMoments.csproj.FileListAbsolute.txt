@@ -1,0 +1,8 @@
+D:\SWE 4202\SWE-4202-Repository-\lastMoments\lastMoments\bin\Debug\lastMoments.exe.config
+D:\SWE 4202\SWE-4202-Repository-\lastMoments\lastMoments\bin\Debug\lastMoments.exe
+D:\SWE 4202\SWE-4202-Repository-\lastMoments\lastMoments\bin\Debug\lastMoments.pdb
+D:\SWE 4202\SWE-4202-Repository-\lastMoments\lastMoments\obj\Debug\lastMoments.csproj.AssemblyReference.cache
+D:\SWE 4202\SWE-4202-Repository-\lastMoments\lastMoments\obj\Debug\lastMoments.csproj.SuggestedBindingRedirects.cache
+D:\SWE 4202\SWE-4202-Repository-\lastMoments\lastMoments\obj\Debug\lastMoments.csproj.CoreCompileInputs.cache
+D:\SWE 4202\SWE-4202-Repository-\lastMoments\lastMoments\obj\Debug\lastMoments.exe
+D:\SWE 4202\SWE-4202-Repository-\lastMoments\lastMoments\obj\Debug\lastMoments.pdb

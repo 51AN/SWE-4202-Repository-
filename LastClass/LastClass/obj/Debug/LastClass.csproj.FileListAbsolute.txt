@@ -1,0 +1,8 @@
+D:\SWE 4202\SWE-4202-Repository-\LastClass\LastClass\bin\Debug\LastClass.exe.config
+D:\SWE 4202\SWE-4202-Repository-\LastClass\LastClass\bin\Debug\LastClass.exe
+D:\SWE 4202\SWE-4202-Repository-\LastClass\LastClass\bin\Debug\LastClass.pdb
+D:\SWE 4202\SWE-4202-Repository-\LastClass\LastClass\obj\Debug\LastClass.csproj.AssemblyReference.cache
+D:\SWE 4202\SWE-4202-Repository-\LastClass\LastClass\obj\Debug\LastClass.csproj.SuggestedBindingRedirects.cache
+D:\SWE 4202\SWE-4202-Repository-\LastClass\LastClass\obj\Debug\LastClass.csproj.CoreCompileInputs.cache
+D:\SWE 4202\SWE-4202-Repository-\LastClass\LastClass\obj\Debug\LastClass.exe
+D:\SWE 4202\SWE-4202-Repository-\LastClass\LastClass\obj\Debug\LastClass.pdb

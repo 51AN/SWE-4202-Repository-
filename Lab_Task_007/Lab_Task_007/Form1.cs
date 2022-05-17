@@ -174,6 +174,7 @@ namespace Lab_Task_007
                 }
             }
             
+            
             foreach(ProfessionalClass pro in ProfessionalClass.ProList)
             {
                 if(partName == pro.getName())

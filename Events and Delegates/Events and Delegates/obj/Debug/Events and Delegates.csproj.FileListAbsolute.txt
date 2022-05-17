@@ -1,0 +1,8 @@
+D:\SWE 4202\SWE-4202-Repository-\Events and Delegates\Events and Delegates\bin\Debug\Events and Delegates.exe.config
+D:\SWE 4202\SWE-4202-Repository-\Events and Delegates\Events and Delegates\bin\Debug\Events and Delegates.exe
+D:\SWE 4202\SWE-4202-Repository-\Events and Delegates\Events and Delegates\bin\Debug\Events and Delegates.pdb
+D:\SWE 4202\SWE-4202-Repository-\Events and Delegates\Events and Delegates\obj\Debug\Events and Delegates.csproj.AssemblyReference.cache
+D:\SWE 4202\SWE-4202-Repository-\Events and Delegates\Events and Delegates\obj\Debug\Events and Delegates.csproj.SuggestedBindingRedirects.cache
+D:\SWE 4202\SWE-4202-Repository-\Events and Delegates\Events and Delegates\obj\Debug\Events and Delegates.csproj.CoreCompileInputs.cache
+D:\SWE 4202\SWE-4202-Repository-\Events and Delegates\Events and Delegates\obj\Debug\Events and Delegates.exe
+D:\SWE 4202\SWE-4202-Repository-\Events and Delegates\Events and Delegates\obj\Debug\Events and Delegates.pdb

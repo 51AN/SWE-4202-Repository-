@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b2b5d083-5a7e-4861-bdf1-2b5fd8b05e4a": {
+      "ProjectGuid": "b2b5d083-5a7e-4861-bdf1-2b5fd8b05e4a",
+      "DisplayName": "Events and Delegates",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
