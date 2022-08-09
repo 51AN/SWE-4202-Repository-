@@ -1,0 +1,8 @@
+D:\SWE 4202\SWE-4202-Repository-\FIleTraversalLabTask01\FIleTraversalLabTask01\bin\Debug\FIleTraversalLabTask01.exe.config
+D:\SWE 4202\SWE-4202-Repository-\FIleTraversalLabTask01\FIleTraversalLabTask01\bin\Debug\FIleTraversalLabTask01.exe
+D:\SWE 4202\SWE-4202-Repository-\FIleTraversalLabTask01\FIleTraversalLabTask01\bin\Debug\FIleTraversalLabTask01.pdb
+D:\SWE 4202\SWE-4202-Repository-\FIleTraversalLabTask01\FIleTraversalLabTask01\obj\Debug\FIleTraversalLabTask01.csproj.AssemblyReference.cache
+D:\SWE 4202\SWE-4202-Repository-\FIleTraversalLabTask01\FIleTraversalLabTask01\obj\Debug\FIleTraversalLabTask01.csproj.SuggestedBindingRedirects.cache
+D:\SWE 4202\SWE-4202-Repository-\FIleTraversalLabTask01\FIleTraversalLabTask01\obj\Debug\FIleTraversalLabTask01.csproj.CoreCompileInputs.cache
+D:\SWE 4202\SWE-4202-Repository-\FIleTraversalLabTask01\FIleTraversalLabTask01\obj\Debug\FIleTraversalLabTask01.exe
+D:\SWE 4202\SWE-4202-Repository-\FIleTraversalLabTask01\FIleTraversalLabTask01\obj\Debug\FIleTraversalLabTask01.pdb

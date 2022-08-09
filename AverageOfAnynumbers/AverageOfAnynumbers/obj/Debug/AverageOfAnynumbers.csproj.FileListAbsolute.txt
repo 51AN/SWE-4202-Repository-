@@ -1,0 +1,8 @@
+D:\SWE 4202\SWE-4202-Repository-\AverageOfAnynumbers\AverageOfAnynumbers\bin\Debug\AverageOfAnynumbers.exe.config
+D:\SWE 4202\SWE-4202-Repository-\AverageOfAnynumbers\AverageOfAnynumbers\bin\Debug\AverageOfAnynumbers.exe
+D:\SWE 4202\SWE-4202-Repository-\AverageOfAnynumbers\AverageOfAnynumbers\bin\Debug\AverageOfAnynumbers.pdb
+D:\SWE 4202\SWE-4202-Repository-\AverageOfAnynumbers\AverageOfAnynumbers\obj\Debug\AverageOfAnynumbers.csproj.AssemblyReference.cache
+D:\SWE 4202\SWE-4202-Repository-\AverageOfAnynumbers\AverageOfAnynumbers\obj\Debug\AverageOfAnynumbers.csproj.SuggestedBindingRedirects.cache
+D:\SWE 4202\SWE-4202-Repository-\AverageOfAnynumbers\AverageOfAnynumbers\obj\Debug\AverageOfAnynumbers.csproj.CoreCompileInputs.cache
+D:\SWE 4202\SWE-4202-Repository-\AverageOfAnynumbers\AverageOfAnynumbers\obj\Debug\AverageOfAnynumbers.exe
+D:\SWE 4202\SWE-4202-Repository-\AverageOfAnynumbers\AverageOfAnynumbers\obj\Debug\AverageOfAnynumbers.pdb

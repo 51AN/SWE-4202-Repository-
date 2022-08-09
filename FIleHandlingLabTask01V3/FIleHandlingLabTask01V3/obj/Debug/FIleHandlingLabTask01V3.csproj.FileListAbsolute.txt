@@ -1,0 +1,8 @@
+D:\SWE 4202\SWE-4202-Repository-\FIleHandlingLabTask01V3\FIleHandlingLabTask01V3\bin\Debug\FIleHandlingLabTask01V3.exe.config
+D:\SWE 4202\SWE-4202-Repository-\FIleHandlingLabTask01V3\FIleHandlingLabTask01V3\bin\Debug\FIleHandlingLabTask01V3.exe
+D:\SWE 4202\SWE-4202-Repository-\FIleHandlingLabTask01V3\FIleHandlingLabTask01V3\bin\Debug\FIleHandlingLabTask01V3.pdb
+D:\SWE 4202\SWE-4202-Repository-\FIleHandlingLabTask01V3\FIleHandlingLabTask01V3\obj\Debug\FIleHandlingLabTask01V3.csproj.AssemblyReference.cache
+D:\SWE 4202\SWE-4202-Repository-\FIleHandlingLabTask01V3\FIleHandlingLabTask01V3\obj\Debug\FIleHandlingLabTask01V3.csproj.SuggestedBindingRedirects.cache
+D:\SWE 4202\SWE-4202-Repository-\FIleHandlingLabTask01V3\FIleHandlingLabTask01V3\obj\Debug\FIleHandlingLabTask01V3.csproj.CoreCompileInputs.cache
+D:\SWE 4202\SWE-4202-Repository-\FIleHandlingLabTask01V3\FIleHandlingLabTask01V3\obj\Debug\FIleHandlingLabTask01V3.exe
+D:\SWE 4202\SWE-4202-Repository-\FIleHandlingLabTask01V3\FIleHandlingLabTask01V3\obj\Debug\FIleHandlingLabTask01V3.pdb

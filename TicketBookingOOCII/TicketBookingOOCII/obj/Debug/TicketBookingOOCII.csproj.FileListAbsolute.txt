@@ -1,0 +1,8 @@
+D:\SWE 4202\SWE-4202-Repository-\TicketBookingOOCII\TicketBookingOOCII\bin\Debug\TicketBookingOOCII.exe.config
+D:\SWE 4202\SWE-4202-Repository-\TicketBookingOOCII\TicketBookingOOCII\bin\Debug\TicketBookingOOCII.exe
+D:\SWE 4202\SWE-4202-Repository-\TicketBookingOOCII\TicketBookingOOCII\bin\Debug\TicketBookingOOCII.pdb
+D:\SWE 4202\SWE-4202-Repository-\TicketBookingOOCII\TicketBookingOOCII\obj\Debug\TicketBookingOOCII.csproj.AssemblyReference.cache
+D:\SWE 4202\SWE-4202-Repository-\TicketBookingOOCII\TicketBookingOOCII\obj\Debug\TicketBookingOOCII.csproj.SuggestedBindingRedirects.cache
+D:\SWE 4202\SWE-4202-Repository-\TicketBookingOOCII\TicketBookingOOCII\obj\Debug\TicketBookingOOCII.csproj.CoreCompileInputs.cache
+D:\SWE 4202\SWE-4202-Repository-\TicketBookingOOCII\TicketBookingOOCII\obj\Debug\TicketBookingOOCII.exe
+D:\SWE 4202\SWE-4202-Repository-\TicketBookingOOCII\TicketBookingOOCII\obj\Debug\TicketBookingOOCII.pdb

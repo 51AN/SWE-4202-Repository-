@@ -1,0 +1,8 @@
+D:\SWE 4202\SWE-4202-Repository-\AverageJoe\AverageJoe\bin\Debug\AverageJoe.exe.config
+D:\SWE 4202\SWE-4202-Repository-\AverageJoe\AverageJoe\bin\Debug\AverageJoe.exe
+D:\SWE 4202\SWE-4202-Repository-\AverageJoe\AverageJoe\bin\Debug\AverageJoe.pdb
+D:\SWE 4202\SWE-4202-Repository-\AverageJoe\AverageJoe\obj\Debug\AverageJoe.csproj.AssemblyReference.cache
+D:\SWE 4202\SWE-4202-Repository-\AverageJoe\AverageJoe\obj\Debug\AverageJoe.csproj.SuggestedBindingRedirects.cache
+D:\SWE 4202\SWE-4202-Repository-\AverageJoe\AverageJoe\obj\Debug\AverageJoe.csproj.CoreCompileInputs.cache
+D:\SWE 4202\SWE-4202-Repository-\AverageJoe\AverageJoe\obj\Debug\AverageJoe.exe
+D:\SWE 4202\SWE-4202-Repository-\AverageJoe\AverageJoe\obj\Debug\AverageJoe.pdb
