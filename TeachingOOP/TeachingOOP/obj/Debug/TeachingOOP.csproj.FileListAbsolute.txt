@@ -1,0 +1,8 @@
+D:\SWE 4202\SWE-4202-Repository-\TeachingOOP\TeachingOOP\bin\Debug\TeachingOOP.exe.config
+D:\SWE 4202\SWE-4202-Repository-\TeachingOOP\TeachingOOP\bin\Debug\TeachingOOP.exe
+D:\SWE 4202\SWE-4202-Repository-\TeachingOOP\TeachingOOP\bin\Debug\TeachingOOP.pdb
+D:\SWE 4202\SWE-4202-Repository-\TeachingOOP\TeachingOOP\obj\Debug\TeachingOOP.csproj.AssemblyReference.cache
+D:\SWE 4202\SWE-4202-Repository-\TeachingOOP\TeachingOOP\obj\Debug\TeachingOOP.csproj.SuggestedBindingRedirects.cache
+D:\SWE 4202\SWE-4202-Repository-\TeachingOOP\TeachingOOP\obj\Debug\TeachingOOP.csproj.CoreCompileInputs.cache
+D:\SWE 4202\SWE-4202-Repository-\TeachingOOP\TeachingOOP\obj\Debug\TeachingOOP.exe
+D:\SWE 4202\SWE-4202-Repository-\TeachingOOP\TeachingOOP\obj\Debug\TeachingOOP.pdb
